@@ -1,6 +1,6 @@
 
 <p align="center">
- Hi there 👋 
+ <b> Hi there 👋 </b>
   <br><br>
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
 </p>
