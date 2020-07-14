@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![All Text](https://i.pinimg.com/originals/4c/96/6d/4c966d2fafa857933c0614800fc24fe9.gif)
+![All Text](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
 <!--
 **arianaomi/arianaomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
